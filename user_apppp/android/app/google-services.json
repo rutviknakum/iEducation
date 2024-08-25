@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "34037087319",
+    "firebase_url": "https://ieducation-845d5-default-rtdb.firebaseio.com",
+    "project_id": "ieducation-845d5",
+    "storage_bucket": "ieducation-845d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34037087319:android:df277fb63aa2c28b03f712",
+        "android_client_info": {
+          "package_name": "com.example.admin_appppppp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByCNOwz49fbgu1iJHFjZCp4lO9KXo94SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34037087319:android:53051b639dcf8f7803f712",
+        "android_client_info": {
+          "package_name": "com.example.user_apppp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByCNOwz49fbgu1iJHFjZCp4lO9KXo94SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
