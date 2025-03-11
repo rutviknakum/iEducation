@@ -43,7 +43,7 @@ class _CourseScreenState extends State<CourseScreen> {
       setState(() {});
     });
 
-    FlutterDownloader.registerCallback(downloadCallback as DownloadCallback);
+    FlutterDownloader.registerCallback(downloadCallback);
   }
 
   @override

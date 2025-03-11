@@ -44,7 +44,7 @@ class _ResultScreenState extends State<ResultScreen> {
       setState(() {});
     });
 
-    FlutterDownloader.registerCallback(downloadCallback as DownloadCallback);
+    FlutterDownloader.registerCallback(downloadCallback);
   }
 
   @override

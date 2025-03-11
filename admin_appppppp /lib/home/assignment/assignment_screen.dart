@@ -45,7 +45,7 @@ class AssignmentScreenState extends State<AssignmentScreen> {
       setState(() {});
     });
 
-    FlutterDownloader.registerCallback(downloadCallback as DownloadCallback);
+    FlutterDownloader.registerCallback(downloadCallback);
   }
 
   @override
